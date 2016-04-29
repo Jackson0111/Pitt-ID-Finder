@@ -1,0 +1,28 @@
+PODS:
+  - DynamicButton (2.0.0)
+  - KVNProgress (2.2.4)
+  - SZTextView (1.2.2)
+  - TextFieldEffects (1.2.0)
+  - UITextField+Shake (1.1.2)
+  - URBNAlert (1.9.4):
+    - URBNConvenience (> 0.8.2)
+  - URBNConvenience (1.0.0)
+
+DEPENDENCIES:
+  - DynamicButton
+  - KVNProgress
+  - SZTextView
+  - TextFieldEffects
+  - UITextField+Shake
+  - URBNAlert
+
+SPEC CHECKSUMS:
+  DynamicButton: 3507232603eb3a1bd20ec06fc15c4394912adb75
+  KVNProgress: 541edcea5a1fef592aceac8d791a410d38cb499d
+  SZTextView: 3a81174dce0710a9ab069bc73a813e6df53b9c82
+  TextFieldEffects: bc4fd3bd557321bd61a0762f3f50965477a36f62
+  UITextField+Shake: 47cc0429dafb3da580686339ad2da091249a8ea2
+  URBNAlert: 7fabcdcf6d296bed86a84abe0c95892094ab8f79
+  URBNConvenience: 46437a01fa6b138791b1856d8d3f78154c2f1912
+
+COCOAPODS: 0.39.0
